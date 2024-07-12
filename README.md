@@ -1,4 +1,7 @@
 # aws task1
 
-Hello ! masanpally gopal !   
-This is the website i have hosted using the aws services.  
+Deploying a webapplicatin using AWS EC2 service.
+
+The web application can be accessed using PublicIPs: 52.66.69.23 
+
+Use 25.66.69.23 IPaddress to access
